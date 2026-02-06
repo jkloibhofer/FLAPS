@@ -9,7 +9,7 @@ Invited Speakers are Balder ten Cate, Sebastian Enqvist, Iris van der Giessen, M
 The schedule will be updated in due time.
 
 ## Location 
-The workshop will take place in L1.12 at the Lab42 in Science Park Amsterdam. Click ([here](https://maps.app.goo.gl/29m8Ysb4aSMmPnej6)) for the address.
+The workshop will take place in L1.12 at the Lab42 in Science Park Amsterdam. Click [here]([https://maps.app.goo.gl/29m8Ysb4aSMmPnej6](https://www.openstreetmap.org/search?query=lab42+amsterdam&zoom=8&minlon=0.02197265625&minlat=50.62507306341437&maxlon=10.56884765625&maxlat=53.63161060657857#map=18/52.354746/4.954142)) for the address.
 
 ## Questions
 For any questions please contact Johannes Kloibhofer at [j.kloibhofer@uva.nl](mailto: j.kloibhofer@uva.nl).
